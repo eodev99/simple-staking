@@ -66,5 +66,6 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {}
 }
